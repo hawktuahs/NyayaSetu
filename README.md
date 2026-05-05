@@ -39,6 +39,8 @@ Court Judgment PDF
 | 📊 **Dashboard** | Approved records only, searchable and filterable |
 | 🔄 **Auto-refresh** | Polling for extraction status updates |
 | 🔌 **Multi-LLM** | Ollama (local), OpenAI, Gemini support |
+| 💬 **Holistic Chatbot** | Document-aware Q&A for complex legal queries |
+| 🎯 **Visual Highlighting** | Clickable citations jump to PDF + highlight source text |
 
 ## 🚀 Quick Start
 
